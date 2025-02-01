@@ -1,0 +1,6 @@
+[submodule "clip-server"]
+	path = clip-server
+	url = git@github.com:ThanMatt/clip-server.git
+[submodule "clip-client"]
+	path = clip-client
+	url = git@github.com:ThanMatt/clip-client.git
