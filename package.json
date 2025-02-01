@@ -1,11 +1,17 @@
 {
   "name": "CLIP",
+  "version": "1.0.0",
   "scripts": {
     "build": "cd clip-client && pnpm build && cd ../clip-server && pnpm build",
     "start": "cd clip-server && node build/index.js"
   },
   "bin": "clip-server/build/index.js",
   "pkg": {
+    "fileVersion": "1.0.0",
+    "productVersion": "1.0.0",
+    "company": "thanmatt",
+    "copyright": "Copyright © 2025",
+    "productName": "CLIP",
     "assets": [
       "clip-client/dist/**/*",
       "clip-server/**/*"
