@@ -7,8 +7,8 @@
   },
   "bin": "clip-server/build/index.js",
   "pkg": {
-    "fileVersion": "1.0.0",
-    "productVersion": "1.0.0",
+    "fileVersion": "1.0.1",
+    "productVersion": "1.0.1",
     "company": "thanmatt",
     "copyright": "Copyright © 2025",
     "productName": "CLIP",
